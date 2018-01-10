@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Bhavya\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Bhavya\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Bhavya\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Bhavya\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Bhavya\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Bhavya\\.android\\build-cache\\7121058e42c3594d870beba1fb452330529ac0d8\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavya\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Bhavya\\.android\\build-cache\\7121058e42c3594d870beba1fb452330529ac0d8\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavya\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Bhavya\\.android\\build-cache\\7121058e42c3594d870beba1fb452330529ac0d8\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavya\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Bhavya\\.android\\build-cache\\7121058e42c3594d870beba1fb452330529ac0d8\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

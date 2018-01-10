@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+
+    tools:context="weather.dal.cs.weatherapp.MainActivity">
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/Weather_Forecast"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        />
+
+    <EditText
+        android:id="@+id/textview2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/Select_Location"
+        android:layout_below="@+id/textview1"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textview2"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/Weather"
+        />
+
+
+<LinearLayout
+    android:id="@+id/layout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/button"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/editview1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/Temperature"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:id="@+id/editview2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/Condition"
+        android:layout_below="@+id/editview1"
+        android:textStyle="bold"
+         />
+
+    <EditText
+        android:id="@+id/editview3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/WindChill"
+        android:layout_below="@+id/editview2"
+        android:textStyle="bold"
+        />
+
+
+
+</LinearLayout>
+
+
+</RelativeLayout>
